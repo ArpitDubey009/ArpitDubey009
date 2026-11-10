@@ -79,6 +79,8 @@ I'm **Arpit**, a developer focused on building products that genuinely work for 
 
 ## 🚀 Featured Projects
 
+> ✏️ Replace the placeholders below with your real projects (name, one-line impact, tech, live link).
+
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | **Project One** | What it does and who it helps, in one line | `React` `Node.js` `MongoDB` | [Live](#) · [Code](#) |
@@ -91,8 +93,8 @@ I'm **Arpit**, a developer focused on building products that genuinely work for 
 
 <div align="center">
 
-<img height="180" src="https://YOUR-STATS.vercel.app/api?username=ArpitDubey009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://YOUR-STATS.vercel.app/api/top-langs/?username=ArpitDubey009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArpitDubey009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitDubey009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
@@ -110,7 +112,7 @@ I'm **Arpit**, a developer focused on building products that genuinely work for 
 
 <div align="center">
 
-[![trophy](https://YOUR-TROPHY.vercel.app/?username=ArpitDubey009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=ArpitDubey009&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
